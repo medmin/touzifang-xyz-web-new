@@ -100,16 +100,24 @@ const config = {
             title: "Community",
             items: [
               {
-                label: "Stack Overflow",
-                href: "https://stackoverflow.com/questions/tagged/docusaurus",
+                label: "YouTube",
+                href: "https://www.youtube.com/channel/UCMD1mMpbj7ma9Mt1B-5Wm4Q",
               },
-              {
-                label: "Discord",
-                href: "https://discordapp.com/invite/docusaurus",
-              },
+              // {
+              //   label: "Discord",
+              //   href: "https://discordapp.com/invite/docusaurus",
+              // },
               {
                 label: "Twitter",
-                href: "https://twitter.com/docusaurus",
+                href: "https://twitter.com/touzifang",
+              },
+              {
+                label: "Telegram",
+                href: "https://t.me/touzifang",
+              },
+              {
+                label: "Email",
+                href: "mailto:hello@touzifang.xyz?subject=Feedback%20for%20Touzifang",
               },
             ],
           },
